@@ -132,8 +132,8 @@ h1, h2 {
     margin-top: -8px;
     padding: 0 24px;
     height: 0;
-    overflow: hidden;
     opacity: 0;
+    overflow: hidden;
     transition: .2s;
   }
   
